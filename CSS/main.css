@@ -1,0 +1,61 @@
+.home{
+    background-image: url(https://img.freepik.com/free-vector/chatbot-messenger-isometric-concept_1284-69074.jpg?w=2000);
+    margin-left:5%;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.home .home-p{
+    color: rgb(24, 32, 92);
+    font-size: 30px;
+    width: 600px;
+    
+    margin-right:250px;
+}
+
+.home .complain-btn{
+    width: 200px;
+    height: 60px;
+    font-size: 25px;
+    background-color: rgb(76, 87, 92);
+    font-weight:bold;
+    padding: 10px;
+    
+}
+
+.about-des{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 50px 100px;
+    height: 100vh;
+    
+}
+.about-des .left{
+    margin: 0 100px 0 0;
+}
+.about-des .left .back-box{
+    width: 500px;
+    height: 500px;
+    margin: 50px 0;
+    background-color: rgb(41, 89, 104);
+}
+.about-des .left .back-box img{
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+}
+.about-des .right{
+    margin: 140px 0;
+    width: 450px;
+}
+.about-des .right p{
+    position: relative;
+    top: 20px;
+    font-size: 19px;
+}
+
